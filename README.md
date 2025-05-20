@@ -1,6 +1,7 @@
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
 
+# Date: 1/4/2025
 # AIM:
 To write a C program that receives a message from message queue and display them
 
